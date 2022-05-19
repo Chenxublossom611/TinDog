@@ -161,7 +161,7 @@ p {
     text-align: center;
   }
 
-  .title.image {
+  .title-image {
     position: static;
     transform: rotate(0);
   }
